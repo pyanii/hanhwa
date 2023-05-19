@@ -1,0 +1,7 @@
+@charset "UTF-8";
+* { margin: 0; padding: 0; } 
+
+/* slide-위아래 */
+.slide { width: 1200px; height: 300px; margin: 0 auto;overflow: hidden;position: relative; } 
+.slide .slideList { position: absolute; top: 0; left: 0; } 
+.slide .slideList img { display: block; } 
